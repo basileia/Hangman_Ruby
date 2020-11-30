@@ -1,3 +1,3 @@
 # Hangman 
-Home study project
+Home study project  
 Game in Ruby
