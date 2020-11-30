@@ -1,1 +1,3 @@
-# Hangman_Ruby
+# Hangman 
+Home study project
+Game in Ruby
